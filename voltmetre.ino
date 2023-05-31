@@ -2,6 +2,7 @@
 /*Arduino ADC ve voltaj bölücü devre ile
 *Basit Voltmetre ve P10 Gösterge Örneği
 *Dr.TRonik YouTube MAYIS 2023 İzmir/Türkiye
+* https://youtu.be/WweKJArr4YI
 */
 
 /********************************************************************
